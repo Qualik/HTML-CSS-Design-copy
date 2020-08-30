@@ -110,36 +110,6 @@ h1, h2, h3, h4, h5, h6 {
     -o-border-radius: 8px;
 }
 
-.color-container {
-    position: absolute;
-    width: 350px;
-    height: 250px;
-    left: 0px;
-    top: 0px;
-}
-
-.color-1 {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 98.4%;
-    background: #EA5454;
-    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
-}
-
-.color-2 {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
-    background: #FFFFFF;
-    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
-    border-radius: 8px;
-}
-
-
 .title-section-1 {
     position: absolute;
     height: 30px;
@@ -194,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 8px;
 }
 
-.group-11 {
+.group-border-top {
     background: #EA5454;
     box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
 }
