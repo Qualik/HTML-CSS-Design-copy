@@ -1,4 +1,4 @@
-# HTML_CSS_web_page
+# HTML CSS web page
 
 # Frontend Mentor - Four card feature section
 
